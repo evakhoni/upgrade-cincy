@@ -9,10 +9,10 @@
       }
     },
     {
-      "version": "4.10.0-0.nightly-2022-01-13-061145",
-      "payload": "registry.ci.openshift.org/ocp/release@sha256:c03f58e1f3000ddeabcfeb61f343fba640e9354e2e5347c044b41edb4faf7b96",
+      "version": "4.10.0-0.nightly-2022-01-31-012936",
+      "payload": "registry.ci.openshift.org/ocp/release@sha256:5683cd6c7e1d22a28303398d5ea224c7c6e039e4ac85effda6ec740125aaa248",
       "metadata": {
-	"url": "https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/releasestream/4.10.0-0.nightly/release/4.10.0-0.nightly-2022-01-13-061145",
+	"url": "https://openshift-release.apps.ci.l2s4.p1.openshiftapps.com/releasestream/4.10.0-0.nightly/release/4.10.0-0.nightly-2022-01-31-012936",
 	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b,nightly-4.10"
       }
     }
