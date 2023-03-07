@@ -16,7 +16,7 @@
     },
     {
       "version": "4.13.0-0.nightly-2023-03-07-081835",
-      "payload": "quay.io/openshift-release-dev/ocp-release:4.13.0-ec.4-aarch64",
+      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:686cf2b6c2830cba4a4284209ae8ba6a02ba61acf285bdd771fb4995246101b8",
       "metadata": {
 	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
       }
