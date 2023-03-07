@@ -13,6 +13,13 @@
       "metadata": {
 	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
       }
+    },
+    {
+      "version": "4.13.0-0.nightly-2023-03-07-081835",
+      "payload": "registry.ci.openshift.org/ocp/release@sha256:8c5d10fcae776c33c11e126724a7ba78376acb82174f1dd1bc7f077105e43d4f",
+      "metadata": {
+	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
+      }
     }
   ],
   "edges": [
