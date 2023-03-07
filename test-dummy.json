@@ -16,7 +16,7 @@
     },
     {
       "version": "4.13.0-0.nightly-2023-03-07-081835",
-      "payload": "registry.ci.openshift.org/ocp-arm64/release-arm64:4.13.0-0.nightly-arm64-2023-03-07-131556",
+      "payload": "quay.io/openshift-release-dev/ocp-release:4.13.0-ec.4-aarch64",
       "metadata": {
 	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
       }
