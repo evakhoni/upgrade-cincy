@@ -2,11 +2,11 @@
   "version": 1,
   "nodes": [
     {
-      "version": "4.18.0-ec.1",
-      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:81007ae08adaf40b6f782842264d0cc302a8a504708f3c337e1fcbcb533afe6b",
+      "version": "4.18.0-0.nightly-2024-11-08-135543",
+      "payload": "registry.ci.openshift.org/ocp-multi/4.18-art-latest-multi@sha256:e566a4dbc334bda44f4c67148157058d2529facb685bf5cfbc5f2aba560a0095",
       "metadata": {
-        "io.openshift.upgrades.graph.release.channels": "candidate-4.18",
-        "io.openshift.upgrades.graph.release.manifestref": "sha256:81007ae08adaf40b6f782842264d0cc302a8a504708f3c337e1fcbcb533afe6b",
+        "io.openshift.upgrades.graph.release.channels": "nightly",
+        "io.openshift.upgrades.graph.release.manifestref": "sha256:e566a4dbc334bda44f4c67148157058d2529facb685bf5cfbc5f2aba560a0095",
         "release.openshift.io/architecture": "multi"
       }
     }
