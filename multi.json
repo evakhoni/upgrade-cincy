@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "version": "4.18.0-ec.1",
+      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:81007ae08adaf40b6f782842264d0cc302a8a504708f3c337e1fcbcb533afe6b",
+      "metadata": {
+        "io.openshift.upgrades.graph.release.channels": "candidate-4.18",
+        "io.openshift.upgrades.graph.release.manifestref": "sha256:81007ae08adaf40b6f782842264d0cc302a8a504708f3c337e1fcbcb533afe6b",
+        "release.openshift.io/architecture": "multi"
+      }
+    }
+  ],
+  "edges": [],
+  "conditionalEdges": []
+}
